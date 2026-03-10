@@ -1,5 +1,5 @@
-*find minimum of three numbers
-*Reverse a string
-*check vowel or consonant
-*Factorial method 
-*Calculator that keeps running until user quits
+- **Find Minimum of Three Numbers:** Functionality to return the smallest of three numbers.
+- **Reverse a String:** Functionality to reverse any given string.
+- **Check Vowel or Consonant:** Determine if a character is a vowel or consonant.
+- **Factorial Method:** Calculate the factorial of a non-negative integer.
+- **Interactive Calculator:** A calculator that continues to run until the user chooses to quit.
