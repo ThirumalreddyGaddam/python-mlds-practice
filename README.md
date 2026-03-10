@@ -1,9 +1,5 @@
-Mlds practice
- *Even or Odd using Function
- * Sum of First N Numbers
- * List Operations
- * Student Marks Dictionary
- * Remove Duplicates using Set
- * Tuple
- * Index Error Handling
- * Simple Data Analysis
+find minimum of three numbers
+Reverse a string
+check vowel or consonant
+Factorial method 
+Calculator that keeps running until user quits
